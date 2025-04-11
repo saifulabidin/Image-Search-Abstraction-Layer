@@ -1,1 +1,0 @@
-# Image-Search-Abstraction-Layer
